@@ -7,3 +7,4 @@ sympy
 seaborn
 matplotlib
 python==3.7
+notebook>=5
