@@ -6,3 +6,4 @@ numpy
 sympy
 seaborn
 matplotlib
+python==3.7
