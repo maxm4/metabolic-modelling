@@ -1,2 +1,3 @@
 #!/bin/bash
-!jupyter nbextension enable --py escher
+jupyter nbextension enable --py escher
+jupyter labextension install escher
